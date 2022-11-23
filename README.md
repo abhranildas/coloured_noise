@@ -1,4 +1,4 @@
-# Coloured Noise [![View Generalized chi-square distribution on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/85028-generalized-chi-square-distribution)
+# Coloured Noise [![View Coloured Noise on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/121108-coloured-noise)
 Matlab toolbox to generate power-law coloured noise signals of any dimensions.
 ## Author
 Abhranil Das, Center for Perceptual Systems, The University of Texas at Austin.
