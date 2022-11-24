@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.toolbox" plugin-version="1.0">
-  <configuration file="C:\Users\abhra\OneDrive - The University of Texas at Austin\Geisler Lab\coloured_noise\Coloured Noise.prj" location="C:\Users\abhra\OneDrive - The University of Texas at Austin\Geisler Lab\coloured_noise" name="Coloured Noise" target="target.toolbox" target-name="Package Toolbox">
+  <configuration build-checksum="1421958388" file="C:\Users\abhra\OneDrive - The University of Texas at Austin\Geisler Lab\coloured_noise\Coloured Noise.prj" location="C:\Users\abhra\OneDrive - The University of Texas at Austin\Geisler Lab\coloured_noise" name="Coloured Noise" target="target.toolbox" target-name="Package Toolbox">
     <param.appname>Coloured Noise</param.appname>
     <param.authnamewatermark>Abhranil Das</param.authnamewatermark>
     <param.email>abhranil.das@utexas.edu</param.email>
